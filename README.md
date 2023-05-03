@@ -4,7 +4,7 @@ The dataset contains information about the sales of a fictitious retail company 
 # Project Flowchart
 The steps taken for this project can be summarized using the flowchart below, the data was pre cleaned so i went straight into the next step which is data exploration
 
-![image](https://user-images.githubusercontent.com/115956826/235973021-f13eec54-d41a-4359-a820-72b41c5d630a.png)
+![image](https://user-images.githubusercontent.com/115956826/235974152-296702f4-f607-4213-b5e7-cca77ca69f1c.png)
 # Analysis
 The analysis was done using pivot tables
 
